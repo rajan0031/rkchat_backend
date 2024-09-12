@@ -50,6 +50,7 @@ mongoose.connect("mongodb+srv://raykushwaha0031:C1k4maJXzH2vAmh4@blog.zlf5agh.mo
 });
  
 //
+//
 
 
 // this is the end of the dynamics and realtime databse of the mongo db
